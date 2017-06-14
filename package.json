@@ -1,5 +1,5 @@
 {
-  "name": "denise-lhirondelle/bootstrap-combobox",
+  "name": "bootstrap-combobox",
   "version": "1.1.8",
   "description": "Return of the mother of the son of a fork of a combobox plugin that works with twitter bootstrap",
   "main": "js/bootstrap-combobox.js",
