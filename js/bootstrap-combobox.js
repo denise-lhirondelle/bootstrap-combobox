@@ -406,6 +406,9 @@
   }
 
   , focus: function (e) {
+      if (!this.selected && this.$element.val() == '' ) {
+        this.lookup();
+      }
       this.focused = true;
     }
 
